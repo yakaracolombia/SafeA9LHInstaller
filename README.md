@@ -1,3 +1,7 @@
+traduccion al español del safe a9lhinstaller, absolutamente todos los creditos le pertenecen a los creadores originales.
+
+*se han agregado advertencias adicionales
+
 # Safe A9LH Installer
 *A noob-proof ARM9LoaderHax installer/updater/uninstaller*
 
